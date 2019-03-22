@@ -7202,6 +7202,7 @@ lib/managers/dialogs/xbox360playerdialog
 lib/managers/dialogs/xbox360playerreviewdialog
 lib/managers/dialogs/xbox360selectstoragedialog
 lib/managers/dialogs/xbox360selectuserdialog
+lib/managers/dramamanager
 lib/managers/dlcmanager
 lib/managers/dotmanager
 lib/managers/droplootmanager
@@ -7905,6 +7906,7 @@ lib/units/editor/statisticsjobselement
 lib/units/editor/teamaicommandselement
 lib/units/editor/teammatecommentelement
 lib/units/editor/teamrelationelement
+lib/units/editor/teleportplayerelement
 lib/units/editor/variableelement
 lib/units/editor/vehicleoperatorunitelement
 lib/units/editor/vehicletriggerunitelement
@@ -44374,6 +44376,7 @@ ui/interactions/thermite_indicator_df
 ui/loading_screens/camp_loading_screen
 ui/loading_screens/loading_bridge
 ui/loading_screens/loading_flak
+ui/loading_screens/loading_flak_censored
 ui/loading_screens/loading_kelly
 ui/loading_screens/loading_radio
 ui/loading_screens/loading_rhinegold_00
@@ -44391,6 +44394,7 @@ ui/loading_screens/raid_loading_clear_skies_04
 ui/loading_screens/raid_loading_clear_skies_05
 ui/loading_screens/raid_loading_clear_skies_06
 ui/loading_screens/raid_loading_convoy
+ui/loading_screens/raid_loading_convoy_censored
 ui/loading_screens/raid_loading_forest
 ui/loading_screens/raid_loading_hunters
 ui/loading_screens/raid_loading_spies
@@ -50905,6 +50909,7 @@ units/vanilla/props/props tap tubing/textures/tubing_df
 units/vanilla/props/props tap tubing/textures/tubing_gsm
 units/vanilla/props/props tap tubing/textures/tubing_nm
 units/vanilla/props/props_88_flak_shell_pile/flak_88_pile_box_censored_df
+units/vanilla/props/props_88_flak_shell_pile/flak_88_pile_box_df
 units/vanilla/props/props_88_flak_shell_pile/props_88_flak_shell_pile
 units/vanilla/props/props_88_flak_shell_place_int_explosive/props_88_flak_shell_place_int_explosive
 units/vanilla/props/props_airplane_fieseler/props_airplane_fieseler
@@ -51195,6 +51200,9 @@ units/vanilla/props/props_camp_upgrades/props_table_skills/table_skills_l02_hud
 units/vanilla/props/props_camp_upgrades/props_table_skills/textures/books_censored_df
 units/vanilla/props/props_camp_upgrades/props_table_skills/textures/books_censored_gsm
 units/vanilla/props/props_camp_upgrades/props_table_skills/textures/books_censored_nm
+units/vanilla/props/props_camp_upgrades/props_table_skills/textures/books_df
+units/vanilla/props/props_camp_upgrades/props_table_skills/textures/books_gsm
+units/vanilla/props/props_camp_upgrades/props_table_skills/textures/books_nm
 units/vanilla/props/props_camp_upgrades/props_table_skills/textures/punching_ball_df
 units/vanilla/props/props_camp_upgrades/props_table_skills/textures/punching_ball_gsm
 units/vanilla/props/props_camp_upgrades/props_table_skills/textures/punching_ball_nm
@@ -51269,6 +51277,7 @@ units/vanilla/props/props_crate_1x1/textures/crate_1x1_nm
 units/vanilla/props/props_crate_2x1/props_crate_2x1
 units/vanilla/props/props_crate_2x1/props_crate_open_2x1
 units/vanilla/props/props_crate_2x1/textures/crate_2x1_censored_df
+units/vanilla/props/props_crate_2x1/textures/crate_2x1_df
 units/vanilla/props/props_crate_2x1/textures/crate_2x1_gsm
 units/vanilla/props/props_crate_2x1/textures/crate_2x1_nm
 units/vanilla/props/props_crate_2x1_openable/props_crate_open_2x1_openable
@@ -51505,6 +51514,7 @@ units/vanilla/props/props_field_desk_01/props_field_desk_01_df
 units/vanilla/props/props_field_desk_01/props_field_desk_01_gsm
 units/vanilla/props/props_field_desk_01/props_field_desk_01_nm
 units/vanilla/props/props_field_desk_02/mat_field_desk_02_censored_df
+units/vanilla/props/props_field_desk_02/mat_field_desk_02_df
 units/vanilla/props/props_field_desk_02/mat_field_desk_02_gsm
 units/vanilla/props/props_field_desk_02/mat_field_desk_02_nm
 units/vanilla/props/props_field_desk_02/props_field_desk_02
