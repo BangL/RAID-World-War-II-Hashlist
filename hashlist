@@ -50911,7 +50911,6 @@ units/vanilla/props/props tap tubing/textures/tubing_df
 units/vanilla/props/props tap tubing/textures/tubing_gsm
 units/vanilla/props/props tap tubing/textures/tubing_nm
 units/vanilla/props/props_88_flak_shell_pile/flak_88_pile_box_censored_df
-units/vanilla/props/props_88_flak_shell_pile/flak_88_pile_box_df
 units/vanilla/props/props_88_flak_shell_pile/props_88_flak_shell_pile
 units/vanilla/props/props_88_flak_shell_place_int_explosive/props_88_flak_shell_place_int_explosive
 units/vanilla/props/props_airplane_fieseler/props_airplane_fieseler
@@ -51202,9 +51201,6 @@ units/vanilla/props/props_camp_upgrades/props_table_skills/table_skills_l02_hud
 units/vanilla/props/props_camp_upgrades/props_table_skills/textures/books_censored_df
 units/vanilla/props/props_camp_upgrades/props_table_skills/textures/books_censored_gsm
 units/vanilla/props/props_camp_upgrades/props_table_skills/textures/books_censored_nm
-units/vanilla/props/props_camp_upgrades/props_table_skills/textures/books_df
-units/vanilla/props/props_camp_upgrades/props_table_skills/textures/books_gsm
-units/vanilla/props/props_camp_upgrades/props_table_skills/textures/books_nm
 units/vanilla/props/props_camp_upgrades/props_table_skills/textures/punching_ball_df
 units/vanilla/props/props_camp_upgrades/props_table_skills/textures/punching_ball_gsm
 units/vanilla/props/props_camp_upgrades/props_table_skills/textures/punching_ball_nm
@@ -51279,7 +51275,6 @@ units/vanilla/props/props_crate_1x1/textures/crate_1x1_nm
 units/vanilla/props/props_crate_2x1/props_crate_2x1
 units/vanilla/props/props_crate_2x1/props_crate_open_2x1
 units/vanilla/props/props_crate_2x1/textures/crate_2x1_censored_df
-units/vanilla/props/props_crate_2x1/textures/crate_2x1_df
 units/vanilla/props/props_crate_2x1/textures/crate_2x1_gsm
 units/vanilla/props/props_crate_2x1/textures/crate_2x1_nm
 units/vanilla/props/props_crate_2x1_openable/props_crate_open_2x1_openable
@@ -51516,7 +51511,6 @@ units/vanilla/props/props_field_desk_01/props_field_desk_01_df
 units/vanilla/props/props_field_desk_01/props_field_desk_01_gsm
 units/vanilla/props/props_field_desk_01/props_field_desk_01_nm
 units/vanilla/props/props_field_desk_02/mat_field_desk_02_censored_df
-units/vanilla/props/props_field_desk_02/mat_field_desk_02_df
 units/vanilla/props/props_field_desk_02/mat_field_desk_02_gsm
 units/vanilla/props/props_field_desk_02/mat_field_desk_02_nm
 units/vanilla/props/props_field_desk_02/props_field_desk_02
